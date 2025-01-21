@@ -1,6 +1,7 @@
 Aplikacja umożliwia użytkownikowi wprowadzenie swojego imienia, które zostanie użyte do spersonalizowanego powitania.
 
 Frontend: Używa Thymeleaf do renderowania dynamicznej strony HTML.
+
 Backend: Używa Spring Boot do obsługi logiki aplikacji i zarządzania żądaniami HTTP.
 
 Użytkownik może wprowadzić swoje imię jako parametr w URL a aplikacja wyświetli spersonalizowane powitanie. 
